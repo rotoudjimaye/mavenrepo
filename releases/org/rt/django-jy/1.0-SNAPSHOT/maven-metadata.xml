@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>django-jython</groupId>
+  <groupId>org.rt</groupId>
   <artifactId>django-jy</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20120806.070813</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20120806.083617</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20120806070813</lastUpdated>
+    <lastUpdated>20120806083617</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20120806.070813-2</value>
-        <updated>20120806070813</updated>
+        <value>1.0-20120806.083617-1</value>
+        <updated>20120806083617</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20120806.070813-2</value>
-        <updated>20120806070813</updated>
+        <value>1.0-20120806.083617-1</value>
+        <updated>20120806083617</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
